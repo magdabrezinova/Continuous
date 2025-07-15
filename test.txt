@@ -1,1 +1,2 @@
 úprava ve vs code
+úprava v githubu
