@@ -1,3 +1,4 @@
 úprava ve vs code
 úprava v githubu
 úprava na cherry-pick
+změna na binární txt
