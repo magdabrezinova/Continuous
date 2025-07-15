@@ -2,3 +2,4 @@
 úprava v githubu
 úprava na cherry-pick
 změna na binární txt
+změna na binární txt
